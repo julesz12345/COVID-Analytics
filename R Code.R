@@ -1,14 +1,5 @@
 # Covid-19 Analytics: The five seasons of COVID
 
-#Group Project - Lab 1
-
-#Maguette Paye 
-#Alfonso Cabello 
-#Jules Zielinski 
-#Arnaud Guzman-Annes 
-#Nupur Mittal
-
-
 #libraries
 library(tidyverse)
 library(ggplot2)
